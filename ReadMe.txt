@@ -1,6 +1,6 @@
 
  - Este programa baraja y reparte las 48 cartas principales de la
-   baraja española. 
+   baraja española, utilizando lenguaje C. 
    El tamaño de las variables y el nombre de las cartas se pueden
    modificar para que el número de cartas total sea diferente, así
    como el número de cartas que se reparten a cada jugador.
